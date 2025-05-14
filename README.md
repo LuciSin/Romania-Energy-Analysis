@@ -16,10 +16,14 @@
 ![Seasonal Comparison](output/seasonal_diff.png)  
 *▲ Figure 2: Consumption vs production by season*
 
-| Season   | Avg Consumption (MW) | Avg Production (MW) | Deficit |
-|----------|---------------------:|--------------------:|--------:|
-| Winter   | 7,210               | 6,345              | -12%    |
-| Summer   | 6,880               | 7,150              | +4%     |
+
+|Season | Avg Consumption (MW)| Avg Production (MW)|Deficit |
+|:------|--------------------:|-------------------:|:-------|
+|Autumn |                 6378|                6035|-5%     |
+|Spring |                 6292|                6316|0%      |
+|Summer |                 6289|                6050|-4%     |
+|Winter |                 7108|                7065|-1%     |
+
 
 ### 2. Renewable Performance
 ![Renewable Timeline](output/renewable_trends.png)  
@@ -35,8 +39,20 @@
 Solar        1.038
 Coal         1.333
 Hydro        0.630
+```
+## Key Findings
 
-📌 Appendix
+### 4. Source Impact Analysis
+![Impact Coefficients](output/coefficients.png)
+
+```r
+# Top regression coefficients
+Solar        1.038
+Coal         1.333  
+Hydro        0.630
+``` 
+
+### 5. 📌 Appendix
 Data Limitations
 
     ❗ Hourly data may mask micro-variations
@@ -56,5 +72,5 @@ Data Limitations
 📧 Contact
 
 Author: Spiridon Lucian-Valentin
-Institution: Economic Cybernetics, Year 2
+Institution: Economic Cybernetics, University of Bucharest
 GitHub: github.com/LuciSin
