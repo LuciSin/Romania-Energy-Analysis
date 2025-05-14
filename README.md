@@ -35,3 +35,26 @@
 Solar        1.038
 Coal         1.333
 Hydro        0.630
+
+📌 Appendix
+Data Limitations
+
+    ❗ Hourly data may mask micro-variations
+
+    ❗ Excludes industrial demand surges
+
+    ❗ No geographic granularity
+    
+    📚 References
+
+    Transelectrica Annual Reports (2019-2024)
+
+    ENTSO-E Transparency Platform
+
+    IEA Romania Country Profile
+
+📧 Contact
+
+Author: Spiridon Lucian-Valentin
+Institution: Economic Cybernetics, Year 2
+GitHub: github.com/LuciSin
