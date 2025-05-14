@@ -1,6 +1,10 @@
 # Romania Electricity Market Analysis
 **Can Renewables Power Romania's Future?**  
 *A data-driven exploration of consumption patterns and renewable potential (2019-2024)*
+### Romanian Version:
+📄 [**Română**](report/Romanian_Report.pdf) - Versiunea completă în limba română (PDF)  
+
+
 
 ![Energy Mix Overview](output/energy_mix.png)  
 *▲ Figure 1: Production breakdown by source (MW)*
