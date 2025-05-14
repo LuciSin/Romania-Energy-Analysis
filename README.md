@@ -75,6 +75,6 @@ Data Limitations
 
 📧 Contact
 
-Author: Spiridon Lucian-Valentin
-Institution: Economic Cybernetics, University of Bucharest
-GitHub: github.com/LuciSin
+    Author: Spiridon Lucian-Valentin
+    Institution: Economic Cybernetics, University of Bucharest
+    GitHub: github.com/LuciSin
